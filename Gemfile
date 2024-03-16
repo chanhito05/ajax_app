@@ -72,4 +72,3 @@ group :test do
 end
 
 gem 'pry-rails'
-pin "memo", to: "memo.js"
